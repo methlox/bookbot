@@ -1,1 +1,1 @@
-bookbot is my first attempt at a backend project
+setting up my local development environment for python
