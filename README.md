@@ -1,1 +1,1 @@
-setting up my local development environment for python
+Allows us to calculate and view different parameters inside the text of a book.
